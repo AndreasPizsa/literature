@@ -1,6 +1,6 @@
 {
   "name": "literature",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Write literate code in Markdown, then use Literature to extract code blocks that you can pass to any compiler.",
   "main": "dist/literature.js",
   "preferGlobal" : true,
