@@ -1,9 +1,9 @@
 {
   "name": "literature",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Write literate code in Markdown, then use Literature to extract code blocks that you can pass to any compiler.",
   "main": "dist/literature.js",
-  "preferGlobal" : true,
+  "preferGlobal": true,
   "bin": {
     "literature": "./dist/literature-cli.js"
   },
@@ -39,6 +39,8 @@
     "verb": "^0.2.15",
     "gulp-mocha": "^1.1.0",
     "gulp-coffee": "^2.2.0",
-    "gulp-verb": "^0.3.0"
+    "gulp-verb": "^0.3.0",
+    "gulp-concat": "^2.4.1",
+    "gulp-chmod": "^1.1.1"
   }
 }

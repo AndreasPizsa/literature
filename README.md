@@ -1,5 +1,5 @@
 # literature [![NPM version](https://badge.fury.io/js/literature.svg)](http://badge.fury.io/js/literature)
-  [![Build Status](https://travis-ci.org/AndreasPizsa/literature.svg)](https://travis-ci.org/AndreasPizsa/literature) 
+  [![Build Status](https://travis-ci.org/AndreasPizsa/literature.svg)](https://travis-ci.org/AndreasPizsa/literature)
 
 > Write literate code in Markdown, then use Literature to extract code blocks that you can pass to any compiler.
 
@@ -7,14 +7,15 @@
 #### Install with [npm](npmjs.org)
 
 ```bash
-npm i literature --save
+npm i literature --save -g
 ```
 
 ## Usage
 ## Command line
 
 ```bash
-$ literature <file ...>
+npm i literature -g
+literature <file ...>
 ```
 
 
@@ -97,9 +98,9 @@ Thanks!
 ## Author
 
 **Andreas Pizsa**
- 
+
 + [github/AndreasPizsa](https://github.com/AndreasPizsa)
-+ [twitter/AndreasPizsa](http://twitter.com/AndreasPizsa) 
++ [twitter/AndreasPizsa](http://twitter.com/AndreasPizsa)
 
 
 ## License

@@ -1,3 +1,6 @@
+#!/bin/sh
+':' //; exec "$(command -v nodejs || command -v node)" "$0" "$@"
+
 var e, err, file, fs, literature, program, version, _i, _len, _ref;
 
 fs = require('fs');

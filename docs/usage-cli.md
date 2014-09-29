@@ -1,5 +1,6 @@
 # Command line
 
 ```bash
-$ literature <file ...>
+npm i literature -g
+literature <file ...>
 ```
