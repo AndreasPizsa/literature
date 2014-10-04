@@ -1,4 +1,5 @@
 # literature [![NPM version](https://badge.fury.io/js/literature.svg)](http://badge.fury.io/js/literature)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/AndreasPizsa/literature?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
   [![Build Status](https://travis-ci.org/AndreasPizsa/literature.svg)](https://travis-ci.org/AndreasPizsa/literature)
 
 > Write literate code in Markdown, then use Literature to extract code blocks that you can pass to any compiler.
