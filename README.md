@@ -1,5 +1,5 @@
 # literature [![NPM version](https://badge.fury.io/js/literature.svg)](http://badge.fury.io/js/literature)
-  [![Build Status](https://travis-ci.org/AndreasPizsa/literature.svg)](https://travis-ci.org/AndreasPizsa/literature)
+  [![Build Status](https://travis-ci.org/AndreasPizsa/literature.svg)](https://travis-ci.org/AndreasPizsa/literature) [![Greenkeeper badge](https://badges.greenkeeper.io/AndreasPizsa/literature.svg)](https://greenkeeper.io/)
 
 > Write literate code in Markdown, then use Literature to extract code blocks that you can pass to any compiler.
 
