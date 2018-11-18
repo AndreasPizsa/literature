@@ -26,21 +26,21 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "marked": "^0.3.2",
-    "lodash": "^2.4.1",
+    "marked": "^0.5.1",
+    "lodash": "^4.17.11",
     "commander": "^2.3.0"
   },
   "devDependencies": {
     "gulp": "^3.8.8",
     "gulp-util": "^3.0.1",
     "coffee-script": "^1.8.0",
-    "mocha": "^1.21.4",
+    "mocha": "^5.2.0",
     "remarkable": "jonschlinkert/remarkable",
-    "verb": "^0.2.15",
-    "gulp-mocha": "^1.1.0",
-    "gulp-coffee": "^2.2.0",
+    "verb": "^0.8.10",
+    "gulp-mocha": "^6.0.0",
+    "gulp-coffee": "^3.0.3",
     "gulp-verb": "^0.3.0",
     "gulp-concat": "^2.4.1",
-    "gulp-chmod": "^1.1.1"
+    "gulp-chmod": "^2.0.0"
   }
 }
